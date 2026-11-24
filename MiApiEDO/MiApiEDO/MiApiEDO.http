@@ -1,6 +1,0 @@
-@MiApiEDO_HostAddress = http://localhost:5272
-
-GET {{MiApiEDO_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
